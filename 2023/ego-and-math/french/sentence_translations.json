@@ -38,7 +38,7 @@
  {
   "input": "I was receiving the same degree and in the time since then I devoted myself to trying to share math with others mainly through YouTube but also through some other avenues and what I want to talk to you about today is a small way that my relationship with math has changed during that time and a way that I hope that it continues to change.",
   "model": "nmt",
-  "translatedText": "J'obtenais le même diplôme et depuis lors, je me suis consacré à essayer de partager les mathématiques avec les autres principalement via YouTube mais aussi par d'autres moyens et ce dont je veux vous parler aujourd'hui est une petite façon dont ma relation avec les mathématiques a changé pendant cette période et j'espère qu'il continuera à changer.",
+  "translatedText": "J'obtenais le même diplôme et depuis lors, je me suis consacré à essayer de partager les mathématiques avec les autres principalement via YouTube mais aussi par d'autres moyens et ce dont je veux vous parler aujourd'hui est une petite façon dont ma relation avec les mathématiques a changé pendant cette période, une façon dont j'espère qu'elle continuera à changer.",
   "time_range": [
    18.552857142857142,
    35.68
@@ -47,7 +47,7 @@
  {
   "input": "The change is personal but it's something that might just apply to you too and if so it might actually help in shaping your future.",
   "model": "nmt",
-  "translatedText": "Le changement est personnel, mais c'est quelque chose qui pourrait s'appliquer à vous aussi et si c'est le cas, cela pourrait réellement vous aider à façonner votre avenir.",
+  "translatedText": "Ce changement est personnel, mais c'est quelque chose qui pourrait justement s'appliquer à vous aussi et si c'est le cas, cela pourrait réellement aider à façonner votre avenir.",
   "time_range": [
    35.68,
    42.38473684210527
@@ -56,7 +56,7 @@
  {
   "input": "I was reflecting before today on what it was that pulled me into the subject in the first place.",
   "model": "nmt",
-  "translatedText": "Je réfléchissais avant aujourd’hui à ce qui m’avait poussé à aborder ce sujet en premier lieu.",
+  "translatedText": "Je réfléchissais avant aujourd’hui à ce qui m’avait attiré vers la matière en premier lieu.",
   "time_range": [
    42.38473684210527,
    47.24
@@ -65,7 +65,7 @@
  {
   "input": "Why is it that I fell in love with the subject?",
   "model": "nmt",
-  "translatedText": "Pourquoi est-ce que je suis tombé amoureux du sujet?",
+   "translatedText": "Pourquoi est-ce que je suis tombé amoureux de la matière?",
   "time_range": [
    47.24,
    49.504615384615384
@@ -74,7 +74,7 @@
  {
   "input": "Why is it that I chose to major in it when I was here?",
   "model": "nmt",
-  "translatedText": "Pourquoi ai-je choisi de m'y spécialiser lorsque j'étais ici?",
+  "translatedText": "Pourquoi est-ce que j'ai choisi de m'y spécialiser lorsque j'étais ici?",
   "time_range": [
    49.504615384615384,
    52.09684210526316
@@ -83,7 +83,7 @@
  {
   "input": "Why is it that I've spent the last eight years in this sort of weird unorthodox career path of explaining it online?",
   "model": "nmt",
-  "translatedText": "Pourquoi ai-je passé les huit dernières années dans ce genre de carrière étrange et peu orthodoxe consistant à expliquer les choses en ligne?",
+  "translatedText": "Pourquoi est-ce que j'ai passé les huit dernières années dans cette sorte de carrière étrange, peu orthodoxe consistant à l'expliquer en ligne?",
   "time_range": [
    52.09684210526316,
    58.129999999999995
@@ -92,7 +92,7 @@
  {
   "input": "And you see there's a story that I think a lot of us tell and the story is centered on things like the inescapable beauty of the subject or the fact that it's very charming just how well applied it is to not just physics and not just computer science but a plethora of different technical fields.",
   "model": "nmt",
-  "translatedText": "Et vous voyez, il y a une histoire que je pense que beaucoup d'entre nous racontent et l'histoire est centrée sur des choses comme la beauté incontournable du sujet ou le fait qu'il est très charmant à quel point il est bien appliqué non seulement à la physique et pas seulement à l'informatique. mais une pléthore de domaines techniques différents.",
+  "translatedText": "Et vous voyez, il y a une histoire que je pense que beaucoup d'entre nous racontent et l'histoire est centrée sur des choses comme la beauté incontournable du sujet ou le fait qu'il est très charmant à quel point il est bien appliqué non seulement à la physique et non seulement à l'informatique mais une pléthore de domaines techniques différents.",
   "time_range": [
    58.129999999999995,
    73.51679999999999
@@ -110,7 +110,7 @@
  {
   "input": "Ego.",
   "model": "nmt",
-  "translatedText": "Ego.",
+  "translatedText": "L'ego.",
   "time_range": [
    81.6275,
    81.8775
@@ -128,7 +128,7 @@
  {
   "input": "If you remember what it was like maybe in elementary school and the way it came across to us.",
   "model": "nmt",
-  "translatedText": "Si vous vous souvenez de ce que c'était peut-être à l'école primaire et de la façon dont cela nous est apparu.",
+  "translatedText": "Si vous vous souvenez de ce que c'était peut-être à l'école primaire et de la façon dont cela nous était apparu.",
   "time_range": [
    85.3630769230769,
    90.20432432432432
